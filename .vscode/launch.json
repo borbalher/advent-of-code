@@ -1,0 +1,116 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 1: Report repair #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/2/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 1: Report repair #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/2/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 2: Password philosophy #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/2/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 2: Password philosophy #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/2/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 3: Toboggan Trajectory #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/3/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 3: Toboggan Trajectory #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/3/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 4: Passport Processing #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/4/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 4: Passport Processing #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/4/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 5: Binary boarding #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/5/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 5: Binary boarding #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/5/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 6: Custom Customs #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/6/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 6: Custom Customs #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/6/part-two.js"
+    }
+  ]
+}
