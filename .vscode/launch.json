@@ -111,6 +111,24 @@
         "<node_internals>/**"
       ],
       "program": "${workspaceFolder}/src/6/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 7: Handy Haversacks #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/7/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 7: Handy Haversacks #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/7/part-two.js"
     }
   ]
 }
