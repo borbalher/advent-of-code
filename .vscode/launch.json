@@ -129,6 +129,24 @@
         "<node_internals>/**"
       ],
       "program": "${workspaceFolder}/src/7/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 8: Handheld Halting #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/8/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 8: Handheld Halting #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/8/part-two.js"
     }
   ]
 }
