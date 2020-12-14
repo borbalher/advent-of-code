@@ -147,6 +147,114 @@
         "<node_internals>/**"
       ],
       "program": "${workspaceFolder}/src/8/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 9: Encoding Error #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/9/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 9: Encoding Error #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/9/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 10: Adapter Array #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/10/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 10: Adapter Array #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/10/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 11: Seating System #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/11/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 11: Seating System #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/11/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 12: Rain Risk #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/12/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 12: Rain Risk #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/12/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 13: Shuttle Search #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/13/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 13: Shuttle Search #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/13/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 14: Docking Data #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/14/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 14: Docking Data  #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/14/part-two.js"
     }
   ]
 }
