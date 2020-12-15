@@ -255,6 +255,24 @@
         "<node_internals>/**"
       ],
       "program": "${workspaceFolder}/src/14/part-two.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 15: Rambunctious Recitation #1",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/15/part-one.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Day 15: Rambunctious Recitation  #2",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "program": "${workspaceFolder}/src/15/part-two.js"
     }
   ]
 }
